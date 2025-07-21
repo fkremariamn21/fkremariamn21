@@ -46,25 +46,33 @@ Here are some technologies and tools I frequently work with:
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   </div>
+
 **Languages:**
-<div>
-! Python https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-! JavaScript https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-! TypeScript https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
-! Go https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
 **Frameworks & Libraries:**
-! React https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
-! Node.js https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
-! Django https://img.shields.com/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
-! Spring Boot https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.com/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+---
+
 **Databases:**
-! PostgreSQL https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-! MongoDB https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
-! MySQL https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
 **Cloud & DevOps:**
-! AWS https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
-! Docker https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
-</div>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ### Featured Projects
 
 Here are a few projects I'm particularly proud of or that showcase specific skills:
@@ -83,7 +91,15 @@ Here are a few projects I'm particularly proud of or that showcase specific skil
 - **Key Features:**
     - Easily involve to a bid
     - Announce the winner by it self
-- My Portfolio https://fkremariam-portfolio.vercel.app/
+- My Portfolio https://equibahadu.vercel.app/
+
+
+### GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fkremariamn21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fkremariamn21&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+
 ### Connect with me!
 
    <a href="mailto:fkrman45@gmail.com">
@@ -93,7 +109,6 @@ Here are a few projects I'm particularly proud of or that showcase specific skil
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
   </div
- 
-LinkedIn https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white https://www.linkedin.com/in/fkremariam-nigatu-1b5392337/
 
-Portfolio https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white https://fkremariam-portfolio.vercel.app/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fkremariam-nigatu-1b5392337/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=wordpress&logoColor=white)](https://fkremariam-portfolio.vercel.app/)
