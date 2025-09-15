@@ -91,7 +91,7 @@ Here are a few projects I'm particularly proud of or that showcase specific skil
 - **Key Features:**
     - Easily involve to a bid
     - Announce the winner by it self
-- My Portfolio https://equibahadu.vercel.app/
+- My Portfolio https://equib-ms.vercel.app/
 
 
 ### GitHub Stats
