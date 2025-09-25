@@ -105,7 +105,7 @@ Here are a few projects I'm particularly proud of or that showcase specific skil
    <a href="mailto:fkrman45@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://t.me/F_21_Nigatu" target="_blank" rel="noopener noreferrer">
+    <a href="https://t.me/Fikr_21N" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
   </div
